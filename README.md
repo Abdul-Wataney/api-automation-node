@@ -1,5 +1,9 @@
 # Testing the Playground API using Node
 
+
+# **Disclaimer**
+> This repo was cloned from the [Original repo](https://github.com/BestBuy/api-playground) and just edited the `app.test.js` inside the `test` directory
+
 # Project Structure
 ```
 ├───config
